@@ -1,5 +1,5 @@
 # hello-world
 My first Repository.....Go me!
 writing a message on this page.
-var newName = "Alan";
+var newName = "NAMAN";
 newName;
